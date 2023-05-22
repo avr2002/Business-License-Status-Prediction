@@ -2,6 +2,7 @@
 
 - The problem statement was presented at [ZS Data Science Challenge - 2019](https://www.interviewbit.com/contest/zs-yds-2019/)
 - [Dataset Link](https://www.kaggle.com/datasets/samacker77k/classification-of-business-license-status)
+- [Problem Statement & Feature Description](https://github.com/avr2002/Business-License-Status-Prediction/blob/main/notebooks/feature_description.md)
 
 
 ## 1. Create a new environment
