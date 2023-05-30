@@ -35,7 +35,7 @@ The dataset used is a licensed dataset. It contains information about 86K differ
 
 ## Tech Stack
 - ➔ Language: `Python`
-- ➔ Libraries: `pandas`, `seaborn`, `numpy`, `matplotlib`, `scikit-learn`, `h2o`, `tensorflow`
+- ➔ Libraries: `pandas`, `seaborn`, `numpy`, `matplotlib`, `scikit-learn`, `h2o`, `tensorflow`, `flask`, `gunicorn`
 
 ## Approach
 1. Data Description
